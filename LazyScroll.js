@@ -9,7 +9,7 @@
 // @grant					GM_setValue
 // @grant					GM_addStyle
 // @run-at					document-end
-
+//@downloadURL				https://github.com/EvilSpark/LazyScroll/blob/master/LazyScroll.js
 // ==/UserScript==
 
 function scrollPlus() {
